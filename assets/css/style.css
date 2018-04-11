@@ -1,0 +1,83 @@
+header {
+    background-color: #ffffff;
+    border-color: #cccccc;
+    width: auto;
+
+}
+
+body {
+    background: url('../images/squares.png');
+
+}
+
+section {
+    background-color: #ffffff;
+    border-color: #dddddd;
+    border-width: 10px;
+    width: 60%;
+
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    float: left;
+    display: block;
+    width: 350px;
+    height: 85px;
+    padding: 20px;
+    text-align: center;
+
+}
+
+li {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    float: right;
+    list-style-type: none;
+    border-width: 12px;
+    padding: 30px;
+    height: 85px;
+    width: 200px;
+    text-align: center;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+    padding: 1px 1px 20px 0px;
+    border-bottom: 2px solid #dddddd;
+
+}
+
+p {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    font-size: 1em;
+    line-height: 20px;
+    margin-bottom: 20px;
+
+}
+
+img {
+    padding: 20px;
+    width: 200px;
+    height: auto;
+}
+
+footer {
+    background-color: #666666;
+    
+}
+
+#footText {
+    clear: both;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #dddddd;
+    border-top: 15px;
+    padding: 20px;
+    text-align: center;
+
+}
+
